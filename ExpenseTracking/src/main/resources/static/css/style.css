@@ -1,0 +1,28 @@
+td {
+	text-align: right;
+}
+th {
+	text-align: right;
+}
+.action-box {
+	display: flex;
+	justify-content: end;
+}
+
+.delete-button {
+	margin-right: 15px;
+}
+.formBlock {
+	display: flex;
+	justify-content: space-between;
+	padding-right: 100px;
+}
+.container {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#descriptionBlock {
+	padding-left: 10px;
+}
+#expenseForm {
+	font-family: "Lucida Console", "Courier New", monospace;
+}
